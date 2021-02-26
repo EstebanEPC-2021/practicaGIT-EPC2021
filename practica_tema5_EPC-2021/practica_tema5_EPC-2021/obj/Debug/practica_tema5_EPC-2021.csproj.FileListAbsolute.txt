@@ -1,0 +1,10 @@
+C:\Users\Esteban\source\repos\EstebanEPC-2021\practicaGIT-EPC2021\practica_tema5_EPC-2021\practica_tema5_EPC-2021\bin\Debug\practica_tema5_EPC-2021.exe.config
+C:\Users\Esteban\source\repos\EstebanEPC-2021\practicaGIT-EPC2021\practica_tema5_EPC-2021\practica_tema5_EPC-2021\bin\Debug\practica_tema5_EPC-2021.exe
+C:\Users\Esteban\source\repos\EstebanEPC-2021\practicaGIT-EPC2021\practica_tema5_EPC-2021\practica_tema5_EPC-2021\bin\Debug\practica_tema5_EPC-2021.pdb
+C:\Users\Esteban\source\repos\EstebanEPC-2021\practicaGIT-EPC2021\practica_tema5_EPC-2021\practica_tema5_EPC-2021\obj\Debug\practica_tema5_EPC-2021.csprojAssemblyReference.cache
+C:\Users\Esteban\source\repos\EstebanEPC-2021\practicaGIT-EPC2021\practica_tema5_EPC-2021\practica_tema5_EPC-2021\obj\Debug\practica_tema5_EPC_2021.Form1.resources
+C:\Users\Esteban\source\repos\EstebanEPC-2021\practicaGIT-EPC2021\practica_tema5_EPC-2021\practica_tema5_EPC-2021\obj\Debug\practica_tema5_EPC_2021.Properties.Resources.resources
+C:\Users\Esteban\source\repos\EstebanEPC-2021\practicaGIT-EPC2021\practica_tema5_EPC-2021\practica_tema5_EPC-2021\obj\Debug\practica_tema5_EPC-2021.csproj.GenerateResource.cache
+C:\Users\Esteban\source\repos\EstebanEPC-2021\practicaGIT-EPC2021\practica_tema5_EPC-2021\practica_tema5_EPC-2021\obj\Debug\practica_tema5_EPC-2021.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\source\repos\EstebanEPC-2021\practicaGIT-EPC2021\practica_tema5_EPC-2021\practica_tema5_EPC-2021\obj\Debug\practica_tema5_EPC-2021.exe
+C:\Users\Esteban\source\repos\EstebanEPC-2021\practicaGIT-EPC2021\practica_tema5_EPC-2021\practica_tema5_EPC-2021\obj\Debug\practica_tema5_EPC-2021.pdb
