@@ -26,8 +26,8 @@ namespace practica_tema5_EPC_2021
             String miAlumnoStr;
 
             miAlumno.Nombre = aluNombre.Text;
-            miAlumno.Nota = Convert.ToInt32(aluNota.Text);
-            miAlumnoStr = aluNombre.Text + " " + aluNota.Text + (miAlumno.Aprobado ? " Aprobado" : " Suspenso") + "\n";
+            miAlumno.Nota = Convert.ToInt32(numericText.Text);
+            miAlumnoStr = aluNombre.Text + " " + numericText.Text + (miAlumno.Aprobado ? " Aprobado" : " Suspenso") + "\n";
             listaAlumnos.AppendText(miAlumnoStr);
             misAlumnos.Agregar(miAlumno);
         }
